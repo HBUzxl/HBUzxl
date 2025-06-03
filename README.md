@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## 👋 Hi, I'm @ZhangXiaoliang
+- 🎓 I'm a second-year master's student at **Hebei University**.  
+- 💻 I love programming and playing with small tools & niche technologies.  
+- 🧠 My research focuses on **Edge Computing**, **Cloud Computing**, and **Communication Systems**.  
+- 🚀 Recently, I'm really into **Go** programming.
+- 📫 You can contact me through zxl2024@qq.com
+  
 <!--
 **HBUzxl/HBUzxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
